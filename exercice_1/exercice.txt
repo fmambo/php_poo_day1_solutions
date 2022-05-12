@@ -1,0 +1,12 @@
+Les variables valides:
+
+- $a
+- $AAA
+- $a1
+- $a_a
+- $_a
+
+Les variables non valides:
+
+- $a!
+- $1a
